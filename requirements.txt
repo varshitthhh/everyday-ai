@@ -1,0 +1,4 @@
+ollama
+Pillow
+pydantic
+
